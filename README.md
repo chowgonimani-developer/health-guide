@@ -35,6 +35,4 @@ The platform is responsive and works across desktops, tablets, and mobile device
 📄 License 
     MIT
 
-or a resume-friendly README
 
-just tell me, I’ll tailor it for you 👍
